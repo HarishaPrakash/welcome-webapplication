@@ -1,11 +1,12 @@
 # welcome-webapplication
-run application
+1.run application
 
-mvn spring-boot:run
+`mvn spring-boot:run`
 
-see output 
+2.see output
+
 http://localhost:8080/welcome
 
-run test
+3.run test
 
-mvn test
+`mvn test`
